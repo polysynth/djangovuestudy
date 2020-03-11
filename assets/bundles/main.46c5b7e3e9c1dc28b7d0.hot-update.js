@@ -1,0 +1,23 @@
+webpackHotUpdate("main",{
+
+/***/ "./node_modules/babel-loader/lib/index.js!./node_modules/vue-loader/lib/index.js?!./assets/js/components/Demo.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib!./node_modules/vue-loader/lib??vue-loader-options!./assets/js/components/Demo.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("throw new Error(\"Module build failed (from ./node_modules/babel-loader/lib/index.js):\\nSyntaxError: C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\assets\\\\js\\\\components\\\\Demo.vue: Unexpected keyword 'this' (24:16)\\n\\n\\u001b[0m \\u001b[90m 22 | \\u001b[39m        \\u001b[36mreturn\\u001b[39m {\\u001b[0m\\n\\u001b[0m \\u001b[90m 23 | \\u001b[39m            data\\u001b[33m:\\u001b[39m {\\u001b[0m\\n\\u001b[0m\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 24 | \\u001b[39m                \\u001b[36mthis\\u001b[39m\\u001b[33m.\\u001b[39mjson \\u001b[33m=\\u001b[39m payload\\u001b[0m\\n\\u001b[0m \\u001b[90m    | \\u001b[39m                \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 25 | \\u001b[39m            }\\u001b[0m\\n\\u001b[0m \\u001b[90m 26 | \\u001b[39m        }\\u001b[0m\\n\\u001b[0m \\u001b[90m 27 | \\u001b[39m    }\\u001b[33m,\\u001b[39m\\u001b[0m\\n    at Parser._raise (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:723:17)\\n    at Parser.raiseWithData (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:716:17)\\n    at Parser.raise (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:710:17)\\n    at Parser.checkReservedWord (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:10619:12)\\n    at Parser.parseObjectProperty (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:10346:12)\\n    at Parser.parseObjPropValue (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:10366:101)\\n    at Parser.parseObjectMember (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:10290:10)\\n    at Parser.parseObj (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:10211:25)\\n    at Parser.parseExprAtom (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:9836:28)\\n    at Parser.parseExprSubscripts (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:9479:23)\\n    at Parser.parseMaybeUnary (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:9459:21)\\n    at Parser.parseExprOps (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:9329:23)\\n    at Parser.parseMaybeConditional (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:9302:23)\\n    at Parser.parseMaybeAssign (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:9257:21)\\n    at Parser.parseObjectProperty (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:10341:101)\\n    at Parser.parseObjPropValue (C:\\\\Users\\\\An Dao\\\\Documents\\\\repos\\\\vuestudy\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:10366:101)\");\n\n//# sourceURL=webpack:///./assets/js/components/Demo.vue?./node_modules/babel-loader/lib!./node_modules/vue-loader/lib??vue-loader-options");
+
+/***/ }),
+
+/***/ "./node_modules/util/node_modules/inherits/inherits_browser.js":
+false,
+
+/***/ "./node_modules/util/support/isBufferBrowser.js":
+false,
+
+/***/ "./node_modules/util/util.js":
+false
+
+})
